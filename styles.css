@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(33, 97, 140);
+    background-color: RGB(215, 61, 199);
 }
 h1{
 text-align: center;
@@ -13,7 +13,7 @@ text-align: center;
 
 .link-button {
     text-decoration: none;
-    color: pink;
+    color: white;
     border: 1px solid gray;
     background-color: #BB8FCE;
     padding: 5px;
