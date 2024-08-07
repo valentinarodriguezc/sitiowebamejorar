@@ -6,10 +6,9 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    text-aling: center
 }
-.container{
-  text-aling: center
-}
+
 .link-button {
     text-decoration: none;
     color: white;
