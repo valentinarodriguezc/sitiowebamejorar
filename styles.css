@@ -1,7 +1,9 @@
 body {
     background-color: rgb(33, 97, 140);
 }
-
+h1{
+text-align: center;
+}
 .image{
     border: 5px solid green;
     border-radius: 10px;
