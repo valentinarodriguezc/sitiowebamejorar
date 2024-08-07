@@ -6,8 +6,11 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
-    text-align: center
 }
+.container{
+ text-align: center
+}
+
 
 .link-button {
     text-decoration: none;
